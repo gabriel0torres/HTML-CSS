@@ -1,2 +1,2 @@
-# meu_repositorio
- meu primeiro repositorio
+# Primeiro Repositório
+ Meu Primeiro Repositório, criado durante as aulas de Git e GitHub
